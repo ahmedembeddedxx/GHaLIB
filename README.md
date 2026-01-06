@@ -1,5 +1,5 @@
 # GHaLIB غالب: A Multilingual Framework for Hope Speech Detection in Low-Resource Languages
-![Paper](https://arxiv.org/abs/2512.22705)  
+[Paper](https://arxiv.org/abs/2512.22705)
 ![GHaLIB Architecture](images/architecture.png)
 
 GHaLIB is a multilingual framework for **hope speech detection** designed to address linguistic nuance, cultural variation, and data scarcity in **low-resource languages**. The framework combines **language-specific encoders** with a **shared multilingual transformer backbone** to improve both binary and fine-grained (multiclass) hope speech classification across multiple languages.
